@@ -1,0 +1,25 @@
+Unit System: MMGS (milimetre, gram, second)
+Decimal places: 2
+Part origin: Arbitrary
+Material: 1060 Alloy
+Density: 2700 kg/m^3
+
+All holes through all unless shown otherwise. Use the following parametres and equations which correspond to the dimensions labelled in the images.
+A= 50
+B= 10
+C= B + 20
+
+What is the overall mass of the part in grams?
+a) 364.44
+b) 345.95 (answer)
+c) 323.56
+d) 442.33
+
+
+Make the changes as showing in the figure below. Find the mass in grams.
+
+A= 50
+B= 15
+C= B + 20
+
+Answer: 271.68 grams
